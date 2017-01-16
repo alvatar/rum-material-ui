@@ -2,5 +2,5 @@ log
 resources/public/css
 resources/public/js
 target
-test
+./test
 .nrepl-port
