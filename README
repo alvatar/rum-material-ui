@@ -1,0 +1,10 @@
+Run the test:
+
+Either:
+
+Use Emacs' CIDER, running `(run)`,
+
+OR
+
+1) run `lein figwheel dev` in one terminal
+2) run `lein run` in another terminal
