@@ -4,3 +4,4 @@ resources/public/js
 target
 ./test
 .nrepl-port
+/node_modules
